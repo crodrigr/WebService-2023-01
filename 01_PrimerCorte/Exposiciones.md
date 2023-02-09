@@ -1,4 +1,4 @@
-# Tema de exposiciones del primer corte
+# Temas de exposiciones del primer corte
 
 1. Arquitectura de software
 2. Estilos arquitectonicos
