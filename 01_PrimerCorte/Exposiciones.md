@@ -15,19 +15,19 @@
    - 9.4. Interface segregation principle (ISP)
    - 9.5. Dependency inversion principle (DIP)
 10. **Atributos de calidad** :
-  - Importancia de los atributos de calidad (Profesor)
-  - Clasificación de los atributos de calidad.(Proesor)
-  - Atributos de calidad observables
-     - Performance (rendimiento) 
-     - Security (Seguridad) 
-     - Availability (disponibilidad) 
-     - Functionality (funcionalidad) 
-     - Usabilidad 
-  - No observables 
-     - Modificabilidad 
-     - Portabilidad 
-     - Reusabilidad 
-     - Testabilidad 
-     - Escalabilidad
+    - Importancia de los atributos de calidad (Profesor)
+    - Clasificación de los atributos de calidad.(Proesor)
+      - 10.1. Atributos de calidad observables
+           - 10.1.1. Performance (rendimiento) 
+           - 10.1.2. Security (Seguridad) 
+           - 10.1.3. Availability (disponibilidad) 
+           - 10.1.4. Functionality (funcionalidad) 
+           - 10.1.5. Usabilidad 
+      - 10.2. No observables 
+           - 10.2.1. Modificabilidad 
+           - 10.2.2. Portabilidad 
+           - 10.2.3. Reusabilidad 
+           - 10.2.4. Testabilidad 
+           - 10.2.5. Escalabilidad
  
 
