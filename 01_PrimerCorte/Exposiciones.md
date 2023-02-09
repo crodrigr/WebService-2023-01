@@ -4,7 +4,7 @@
 2. Estilos arquitectonicos
 3. Patrones arquitectonico
 4. Patrones de diseño
-5. Cohesion y acomplamiento **(-Grupo 1)**
+5. Cohesion y acomplamiento **(-*Grupo* 1)**
 6. Don't repeat yourself (DRY) **(-Grupo 2)**
 7. Separation of concerns (SoC) **(-Grupo 3)**
 8. Inversion of control (IoC) **(-Grupo 4)**
@@ -29,5 +29,9 @@
            - 10.2.3. Reusabilidad  **(-Grupo 12)**
            - 10.2.4. Testabilidad   **(-Grupo 12)**
            - 10.2.5. Escalabilidad   **(-Grupo 12)**
+11. **Estilos Arquitectonicos**
+     - 11.1 Monolítico **(-Grupo 13)**
+     - 11.2 Microservicios **(-Grupo 14)**
+     - 11.3 Representational State Transfer (REST). **(-Grupo 15)**
  
 
