@@ -15,8 +15,8 @@
    - 9.4. Interface segregation principle (ISP) **(-Grupo 8 Feb 20)**
    - 9.5. Dependency inversion principle (DIP) **(-Grupo 9 Feb 27 )**
 10. **Atributos de calidad** :
-    - Importancia de los atributos de calidad (Profesor)
-    - Clasificación de los atributos de calidad.(Proesor)
+    - Importancia de los atributos de calidad (***Profesor***)
+    - Clasificación de los atributos de calidad.(***Profesor***)
       - 10.1. Atributos de calidad observables
            - 10.1.1. Performance (rendimiento) **(-Grupo 10 Feb 27)**
            - 10.1.2. Security (Seguridad) **(-Grupo 10 Feb 27 )**
