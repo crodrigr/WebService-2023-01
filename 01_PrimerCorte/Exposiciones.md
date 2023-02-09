@@ -34,4 +34,8 @@
      - 11.2 Microservicios **(-Grupo 14)**
      - 11.3 Representational State Transfer (REST). **(-Grupo 15)**
  
+ ## Nota:
+ #### 1. Tiempo de duración 15 minutos
+ #### 2. Los estudiantes deben reservar el video bean para el aula 
+ 
 
