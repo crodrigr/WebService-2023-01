@@ -1,9 +1,9 @@
 # Temas de exposiciones del primer corte
 
-1. Arquitectura de software
-2. Estilos arquitectonicos
-3. Patrones arquitectonico
-4. Patrones de diseño
+1. Arquitectura de software (***Profesor***)
+2. Estilos arquitectonicos (***Profesor***)
+3. Patrones arquitectonico (***Profesor***)
+4. Patrones de diseño (***Profesor***)
 5. Cohesion y acomplamiento **(-*Grupo* 1  Feb 13)**
 6. Don't repeat yourself (DRY) **(-Grupo 2 Feb 13)**
 7. Separation of concerns (SoC) **(-Grupo 3 Feb 13)**
