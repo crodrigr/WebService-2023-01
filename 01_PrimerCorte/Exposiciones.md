@@ -36,6 +36,6 @@
  
  ## Nota:
  #### 1. Tiempo de duración 15 minutos
- #### 2. Los estudiantes deben reservar el video bean para el aula 
+ #### 2. Los estudiantes deben reservar el video bean para el aula (214 A)
  
 
