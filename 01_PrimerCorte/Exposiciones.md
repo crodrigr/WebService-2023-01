@@ -22,13 +22,13 @@
            - 10.1.2. Security (Seguridad) **(-Grupo 10 Feb 27 )**
            - 10.1.3. Availability (disponibilidad)  **(-Grupo 10 Feb 27)**
            - 10.1.4. Functionality (funcionalidad)  **(-Grupo 11 Feb 27)**
-           - 10.1.5. Usabilidad  **(-Grupo 11)**
+           - 10.1.5. Usabilidad  **(-Grupo 11 Marzo 06)**
       - 10.2. No observables 
-           - 10.2.1. Modificabilidad  **(-Grupo 11)**
-           - 10.2.2. Portabilidad  **(-Grupo 12)**
-           - 10.2.3. Reusabilidad  **(-Grupo 12)**
-           - 10.2.4. Testabilidad   **(-Grupo 12)**
-           - 10.2.5. Escalabilidad   **(-Grupo 12)**
+           - 10.2.1. Modificabilidad  **(-Grupo 11 Marzo 06)**
+           - 10.2.2. Portabilidad  **(-Grupo 12 Marzo 06)**
+           - 10.2.3. Reusabilidad  **(-Grupo 12 Marzo 06)**
+           - 10.2.4. Testabilidad   **(-Grupo 12 Marzo 06)**
+           - 10.2.5. Escalabilidad   **(-Grupo 12 Marzo 06)**
 11. **Estilos Arquitectonicos**
      - 11.1 Monolítico **(-Grupo 13)**
      - 11.2 Microservicios **(-Grupo 14)**
